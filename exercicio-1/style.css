@@ -1,0 +1,30 @@
+body {
+    background-image: url("/exercicio-1/fernando-de-noronha.jpg");
+    background-size: cover;
+}
+
+header {
+    background-color: #248030;
+    color: #fff;
+    border-radius: 5px;
+}
+
+main {
+    background-color: #ffff8c;
+    border-radius: 5px;
+}
+
+a {
+    color: #248030;
+}
+
+button {
+    background-color: #248030;
+    border: 5px solid transparent;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #fff;
+    border-radius: 5px;
+}

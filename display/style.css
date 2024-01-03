@@ -1,0 +1,26 @@
+/* inline: não quebra de linha, largura mínima, apenas aceita margem e preenchimento horizontal */
+.inline {
+    background-color: red;
+    color: #fff;
+    display: inline;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+
+/* block: quebra de linha, largura máxima, aceita margem e preenchimento vertical */
+.block {
+    background-color: blue;
+    color: #fff;
+    display: block;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+
+/* inline-block: não quebra linha, */
+.inline-block {
+    background-color: green;
+    color: #fff;
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
